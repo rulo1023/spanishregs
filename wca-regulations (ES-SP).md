@@ -27,7 +27,7 @@ Reglamento de la WCA en [formato PDF](link:pdf)
 El desarrollo del Reglamento de la WCA es público [en GitHub](https://github.com/thewca/wca-regulations) y el debate es público [en el Foro de la WCA](https://forum.worldcubeassociation.org/c/regulations).
 
 ### Contacto
-Para preguntas o sugerencias, por favor, contactar con [El Comité de Reglamento de la WCA (WRC)](mailto:wrc@worldcubeassociation.org).
+Para preguntas o sugerencias, por favor, contactar con el [Comité de Reglamento de la WCA (WRC)](mailto:wrc@worldcubeassociation.org).
 
 ### Etiquetas
 Para aportar claridad, ciertas reglas se clasifican utilizando una de las siguientes etiquetas. Nótese que esto debe ser considerado como información adicional, no como clasificación de su importancia.
@@ -147,7 +147,7 @@ Nota: Debido a que los números de artículos o de Reglas no se han reasignado a
     - 2n1) Las reclamaciones sólo se permiten durante la competición (ver [Regla 9u](regulations:regulation:9u)), antes de que transcurran 30 minutos desde que ocurriera el incidente que se discute y antes de la siguiente ronda de la prueba.
     - 2n2) El delegado de la WCA debe resolver la disputa antes de que empiece la siguiente ronda de la prueba.
     - 2n3) El competidor debe aceptar todas las decisiones finales tomadas por el delegado de la WCA. Penalización: descalificación de la competición.
-    - 2n3+) [ADICIÓN] El competidor puede escalar su disputa después de la competición siguiendo el proceso descrito en la [Moción de Disputas] (https://documents.worldcubeassociation.org/documents/motions/16.2025.1%20-%20Disputes.pdf).
+    - 2n3+) [ADICIÓN] El competidor puede escalar su disputa después de la competición siguiendo el proceso descrito en la [Moción de Disputas](https://documents.worldcubeassociation.org/documents/motions/16.2025.1%20-%20Disputes.pdf).
 - 2s) Los competidores con condiciones (p.ej. discapacidad) que puedan impedirles atenerse a las reglas de la WCA pueden solicitar al delegado de la WCA adaptaciones específicas. Los competidores que requieran estas adaptaciones deberían ponerse en contacto con el equipo organizador y el delegado de la WCA al menos dos semanas antes de la competición.
 - 2s+) [RECORDATORIO] Las adaptaciones especiales deben anotarse en el Delegate Report.
 - 2s++) [EJEMPLO] Los competidores cuyas circunstancias (por ejemplo, religión) no les permitan competir en una fecha u hora específica pueden ser autorizados a competir en otro momento a discreción del delegado de la WCA. El delegado de la WCA debería considerar la disponibilidad de recursos de la competición al atender tales solicitudes. Esto incluye la posibilidad de competir provisionalmente en rondas posteriores antes de que se completen las rondas anteriores.
