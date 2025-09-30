@@ -191,9 +191,9 @@ Nota: Debido a que los números de artículos o de Reglas no se han reasignado a
     - 3h4+) [ACLARACIÓN] Para el Clock, se permiten modificaciones visuales que mejoren la capacidad de determinar la orientación del puzzle, ya que los diseños tradicionales del puzzle ya proporcionan esta información.
         - 3h4a) Las carátulas internas de papel personalizadas (de la misma forma y tamaño que las originales) están permitidas, a discreción del delegado de la WCA. Las carátulas deben tener una clara indicación de las 12 en punto que coincida con las carátulas originales.
         - 3h4b) Las personalizaciones del diseño del puzzle que no den una ventaja injusta pueden ser permitidas, a discreción del delegado de la WCA (p.ej. patrón de tablero, caras con un diseño personalizado, cinta adhesiva en el lado del Clock).
-        - 3h4c) Personalizaciones que permitan distinguir botones (o «pines») de otros botones del mismo lado están permitidas, a discreción del delegado de la WCA.
+        - 3h4c) Personalizaciones que permitan distinguir pines (o botones) de otros pines del mismo lado están permitidas, a discreción del delegado de la WCA.
         - 3h4d) Logotipos en cualquier parte del puzzle, siempre que las caras interiores de los relojes permanezcan descubiertas.
-    - 3h5) Para el Clock, los botones flojos (p.ej. los botones que cambian de posición por efecto de la gravedad, sin necesidad de ser presionados) no se consideran como un desgaste razonable y por lo tanto los puzzles con tales botones no están permitidos.
+    - 3h5) Para el Clock, los pines flojos (p.ej. los pines que cambian de posición por efecto de la gravedad, sin necesidad de ser presionados) no se consideran como un desgaste razonable y por lo tanto los puzzles con tales pines no están permitidos.
 - 3j) Los puzzles deben estar limpios, y carecer de marcas, piezas elevadas, daños o otras diferencias que puedan distinguir una pieza de otra similar. Excepción: un logotipo (ver [Regla 3l](regulations:regulation:3l)).
 - 3j++) [EJEMPLO] Existe una [Guía visual](https://drive.google.com/file/d/1m6THsA8fXRN7QFM4ApJbm6eVODKGbMLx/view) disponible para la [Regla 3j](regulations:regulation:3j).
     - 3j1) Los puzzles pueden tener un cierto grado de desgaste, a discreción del delegado de la WCA.
@@ -417,7 +417,7 @@ Nota: Debido a que los números de artículos o de Reglas no se han reasignado a
     - 10f4+) [ACLARACIÓN] Al contar los movimientos en caso de desalineación al final de una resolución, X e Y se consideran por separado. Ejemplo: (5, 1) se considera una desalineación, (5, 5) se considera dos desalineaciones.
 - 10h) Los puzzles que no están especificados en este artículo se juzgan de acuerdo con el estado resuelto definido por el objetivo generalmente aceptado del puzzle.
     - 10h1) El estado resuelto del Clock se alcanza cuando las 18 caras de los relojes interiores apuntan a las 12.
-    - 10h1+) [ADICIÓN] El estado resuelto del Clock no se ve afectado por las botones sueltas o saltadas.
+    - 10h1+) [ADICIÓN] El estado resuelto del Clock no se ve afectado por los pines sueltos o saltados.
         - 10h1a) Las caras interiores de los relojes que no indican claramente una marca horaria concreta se consideran que indican la marca horaria más cercana.
 
 
@@ -514,17 +514,17 @@ Nota: Debido a que los números de artículos o de Reglas no se han reasignado a
     - 12e3) Sentido antihorario, 120°: U' (las dos capas superiores), L' (las dos capas de la izquierda), R' (las dos capas de la derecha), B' (las dos capas traseras), u' (el vértice superior), l' (el vértice de la izquierda), r' (el vértice de la derecha), b' (el vértice trasero).
 - 12g) Notación para Clock:
     - 12g1) El puzzle se orienta con los 12 hacia arriba, y cualquier cara hacia el frente.
-    - 12g2) Subir botones: UR (arriba a la derecha), DR (abajo a la derecha), DL (abajo a la izquierda), UL (arriba a la izquierda), U (los dos de arriba), R (los dos de la derecha), D (los dos de abajo), L (los dos de la izquierda), ALL (todos).
-    - 12g3) Gira una rueda que esté junto a un botón hacia arriba, y después pone todos los botones hacia abajo: X+ (X giras en sentido horario), X- (X giras en sentido antihorario).
-    - 12g3+) [RECORDATORIO] Como las mezclas para el Clock se terminan con un movimiento X+ o X-, todos los botones se empujan hacia abajo una vez que la secuencia se ha aplicado completamente.
-    - 12g4) Gira el puzzle sobre su eje horizontal de modo que las 12 sigan arriba, y después pone todos los botones hacia abajo: y2.
+    - 12g2) Subir pines: UR (arriba a la derecha), DR (abajo a la derecha), DL (abajo a la izquierda), UL (arriba a la izquierda), U (los dos de arriba), R (los dos de la derecha), D (los dos de abajo), L (los dos de la izquierda), ALL (todos).
+    - 12g3) Gira una rueda que esté junto a un pin hacia arriba, y después pone todos los pines hacia abajo: X+ (X giras en sentido horario), X- (X giras en sentido antihorario).
+    - 12g3+) [RECORDATORIO] Como las mezclas para el Clock se terminan con un movimiento X+ o X-, todos los pines se empujan hacia abajo una vez que la secuencia se ha aplicado completamente.
+    - 12g4) Gira el puzzle sobre su eje horizontal de modo que las 12 sigan arriba, y después pone todos los pines hacia abajo: y2.
 - 12h) Notación para Skewb:
     - 12h1) El puzzle se orienta con tres caras completamente visibles, de modo que la cara superior quede arriba.
     - 12h2) Sentido horario, 120°: R (la capa que gira sobre el vértice visible más alejado atrás a la derecha), U (la capa que gira sobre el vértice visible más alejado atrás y arriba), L (la capa que gira sobre el vértice visible más alejado atrás a la izquierda), B (la capa que gira sobre el vértice trasero no visible).
     - 12h3) Sentido antihorario, 120°: R' (la capa que gira sobre el vértice visible más alejado atrás a la derecha), U' (la capa que gira sobre el vértice visible más alejado atrás y arriba), L' (la capa que gira sobre el vértice visible más alejado atrás a la izquierda), B' (la capa que gira sobre el vértice trasero no visible).
 - 12i) Definición: Un movimiento es cualquier cambio en el estado del puzzle, en términos de la notación definida anteriormente, incluyendo las desalineaciones que excedan los límites descritos en la [Regla 10f](regulations:regulation:10f).
 - 12i+) [ACLARACIÓN] Las rotaciones no cambian el estado del puzzle.
-    - 12i1) Excepción: En el Clock, solo se consideran movimientos los cambios en la posición de las caras interiores. Los cambios en el estado de los botones no se consideran movimientos.
+    - 12i1) Excepción: En el Clock, solo se consideran movimientos los cambios en la posición de las caras interiores. Los cambios en el estado de los pines no se consideran movimientos.
 
 ## <article-A><speedsolving><speedsolving> Artículo A: Pruebas de Velocidad
 
